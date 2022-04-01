@@ -1,6 +1,6 @@
-# Spring boot demo about integrating with JqueryCalendar.
+# Spring boot demo about integrating with JqueryCalendar
 
-Project has the proporse to share knowledge only.
+This project has the intention to share knowledge with students looking for start a simple configuration project with SpringBoot and Jquery full calendar.
 
 
 - Configure API on spring boot.
@@ -8,4 +8,5 @@ Project has the proporse to share knowledge only.
 - Wrap the project with Docker.
 
 
-![alt text](http://url/to/img.png)
+# Result
+![alt text](https://github.com/pedroafsouza/didatic-calendar-spring-boot/blob/master/imgs/calendar1.png?raw=true)
