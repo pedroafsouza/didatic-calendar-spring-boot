@@ -8,5 +8,13 @@ This project has the intention to share knowledge with students looking for star
 - Wrap the project with Docker.
 
 
-# Result
+## Running on docker
+
+After setup docker, run the following command:
+
+```aidl
+docker-compose up
+```
+
+### Demo result
 ![alt text](https://github.com/pedroafsouza/didatic-calendar-spring-boot/blob/master/imgs/calendar1.png?raw=true)
